@@ -1,0 +1,2 @@
+# covidboard
+Display COVID data
