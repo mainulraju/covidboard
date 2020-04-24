@@ -9,7 +9,7 @@ To see and compare the _COVID_ situation of **Bangladesh**, please go to the fol
 A glimpse of the chart:
 ![line](/img/FrontImage.PNG)
 
-## Support and Contact
+## Credits
 mainul@iit.du.ac.bd
 
-Acknowledgement: https://www.gapminder.org/
+gapminder
