@@ -11,3 +11,4 @@ A glimpse of the chart:
 
 ## Support and Contact
 mainul@iit.du.ac.bd
+Acknowledgement: https://www.gapminder.org/
