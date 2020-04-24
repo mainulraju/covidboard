@@ -28,9 +28,9 @@ var CONFIG = {
    "show": {
     "Category": {
      "$in": [
-      "Facility",
-      "Home",
-      "Total"
+      "Facility Quarantine",
+      "Home Quarantine",
+      "Total Quarantine"
      ]
     }
    },
@@ -92,7 +92,7 @@ var CONFIG = {
     "scaleType": "linear",
     "syncModels": [],
     "use": "indicator",
-    "which": "Quarantine",
+    "which": "#Quarantine",
     "zoomedMax": null,
     "zoomedMin": null
    },
