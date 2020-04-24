@@ -2,9 +2,9 @@
 
 To see and compare the _COVID_ of **Bangladesh**, go to the following charts.
 
-- [South East Asia Covid Positive Status (Line Chart)](www.google.com) 
-- [South East Asia Covid Death Status (Bubble Chart)](www.google.com) 
-- [Bangladesh Quarantine Status (Line Chart)](www.google.com) 
+- [South East Asia Covid Positive Status (Line Chart)](https://mainulraju.github.io/covidboard/Lines SEA/)
+- [South East Asia Covid Death Status (Bubble Chart)](https://mainulraju.github.io/covidboard/Bubble SEA/)
+- [Bangladesh Quarantine Status (Line Chart)](https://mainulraju.github.io/covidboard/Lines BD/)
 
 ![line](/img/FrontImage.PNG)
 
