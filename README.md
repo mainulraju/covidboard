@@ -6,8 +6,7 @@ To see and compare the _COVID_ of **Bangladesh**, go to the following charts.
 - [South East Asis Covid Death Status Status (Bubble Chart)](www.google.com) 
 - [Bangladesh Quarantine Status (Line Chart)](www.google.com) 
 
-![Image](/img/frontimage.png)
-
+![line](/imgs/demo.gif)
 
 ## Support and Contact
 mainul@iit.du.ac.bd
